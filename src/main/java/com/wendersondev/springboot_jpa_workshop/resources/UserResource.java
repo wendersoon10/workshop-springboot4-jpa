@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.wendersondev.springboot_jpa_workshop.entities.User;
 import com.wendersondev.springboot_jpa_workshop.services.UserService;
 
-@RestController
+
 @RequestMapping(value = "/users")
 public class UserResource {
 	
