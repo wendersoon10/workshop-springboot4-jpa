@@ -15,7 +15,8 @@ model/ → entidades
 resources/application.properties → configuração do banco
 
 Como rodar
-git clone https://github.com/wendersoon10/workshop-springboot4-jpa.git
+
+git clone 
 Abrir no IDE
 Configurar banco se quiser (MySQL/PostgreSQL)
 mvn spring-boot:run
